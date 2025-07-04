@@ -22,7 +22,7 @@ const register = async (req, res, next) => {
 };
 
 const refresh = async (req, res, next) => {
-
+    
 };
 
 module.exports = {login, register, refresh};
